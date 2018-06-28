@@ -1,0 +1,1 @@
+DisabledApp = 1
